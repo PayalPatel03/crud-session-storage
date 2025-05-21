@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(95, 87, 87) !important;
+}
+.container {
+  margin-top: 30px;
+}
+
+h2 {
+  margin-bottom: 20px;
+}
+
+form {
+  background-color: #f8f9fa;
+  padding: 25px;
+  border-radius: 10px;
+  box-shadow: 0 0 12px rgba(0,0,0,0.1);
+}
+
+.table img {
+  border-radius: 5px;
+}
+
+.btn-info {
+  width: 100%;
+}
+
+.caption-top h2 {
+  color: #343a40;
+}
+
+@media (max-width: 768px) {
+  .container {
+    padding: 15px;
+  }
+}
