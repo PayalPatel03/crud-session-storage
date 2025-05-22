@@ -269,7 +269,7 @@ function App() {
                   <th>Sr.no</th>
                   <th>Employee Name</th>
                   <th>Salary</th>
-                  <th>Count</th>
+                  <th>Position</th>
                   <th>City</th>
                   <th>Image</th>
                   <th>Gender</th>
